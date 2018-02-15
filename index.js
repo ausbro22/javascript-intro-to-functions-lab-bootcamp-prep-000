@@ -28,7 +28,7 @@ function sayHiToGrandma(string) {
   }
 }
 function logShout(string) {
-  if(string === "hello"){
+  if(spy  === "Hello"){
     console.log('hello')
   }
   
