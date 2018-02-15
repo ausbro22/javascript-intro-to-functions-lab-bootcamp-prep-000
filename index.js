@@ -1,10 +1,10 @@
 var uppercase = "HELLO!"
  
-uppercase.toUpperCase() === uppercase // true
+uppercase.toUpperCase() === uppercase 
  
 var lowercase = 'hello!'
  
-lowercase.toLowerCase() === lowercase // true
+lowercase.toLowerCase() === lowercase 
  
 var mixedCase = 'Hi there!'
  
