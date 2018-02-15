@@ -28,7 +28,7 @@ function sayHiToGrandma(string) {
   }
 }
 function logShout(string) {
-  if(string === "HELLO"){
+  if(string === "hello"){
     console.log('hello')
   }
   
