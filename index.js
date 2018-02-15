@@ -1,3 +1,4 @@
+
 function shout(string) {
   return string.toUpperCase()
 }
@@ -17,5 +18,4 @@ function logShout(string) {
   if(logShout.toHaveBeenCalledWith){
     console.log("Hello")
   }
-  
 }
