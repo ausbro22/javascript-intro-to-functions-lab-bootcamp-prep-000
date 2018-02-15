@@ -28,8 +28,8 @@ function sayHiToGrandma(string) {
   }
 }
 function logShout(string) {
-  if(spy  === "Hello"){
-    console.log('hello')
+  if(string  === "hello"){
+    console.log("Hello")
   }
   
 }
